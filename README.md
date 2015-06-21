@@ -26,6 +26,12 @@ The script is quite simple. It contains three options that can be passed from th
 - -o (--ofile) must be followed by the name where the protein sequences will be stored
 - -p is an option that allows printing the protein sequences on the terminal
  
+To use the script enter the following in the terminal:
+
+`$ python dna2proteins.py -i sequences.fa -o proteins.fa -p`
+
+And substitute <sequences.fa> and <proteins.fa> for the appropriate filenames and paths.
+ 
 ### Credits
 
 The code for this script was developed jointly by:
