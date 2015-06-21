@@ -7,7 +7,7 @@ More information on the course can be found on its [home page](http://www.cs.ucl
 
 The script puts together a collection of functions that essentially import a fastafile containing sequences of DNA and produce a fastafile with the most likely protein sequence for each DNA sequence.
 
-The steps in the script are roughly the following:
+The steps in the script are roughly the following:  
 1. Reads in the fasta file  
 2. Stores the sequences in a dictionary  
 3. Generates the six possible frames for each sequence (+1, +2, +3 and -1, -2, -3)  
