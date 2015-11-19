@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.34023.svg)](http://dx.doi.org/10.5281/zenodo.34023)
 # dna2proteins
 This Python script was produced as part of the course *Introduction to Scientific Programming in Python* of the UCL Graduate School.
 
