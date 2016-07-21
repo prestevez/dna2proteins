@@ -29,7 +29,7 @@ To use the script enter the following in the terminal:
 
 `$ python dna2proteins.py -i sequences.fa -o proteins.fa -p`
 
-And substitute <sequences.fa> and <proteins.fa> for the appropriate filenames and paths.
+And substitute `sequences.fa` and `proteins.fa` for the appropriate filenames and paths.
 
 ### Credits
 
