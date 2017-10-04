@@ -41,3 +41,5 @@ The code for this script was developed jointly by:
 - Marya Koleva
 - Patricio R. Estévez Soto
 - With the guidance and help of Fabian Zimmer
+
+**This project is not maintained. We make no assurances nor offer any guarantees regarding its performance. It was developed as an effort to learn python.** 
